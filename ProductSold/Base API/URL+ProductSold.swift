@@ -8,6 +8,7 @@
 
 import Foundation
 
+//TODO: make this whole thing a Router class
 
 typealias Host = String
 
